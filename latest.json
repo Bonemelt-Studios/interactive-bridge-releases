@@ -1,11 +1,11 @@
 {
-  "version": "2.0.0-beta.4",
-  "notes": "Interactive Bridge 2.0.0-beta.4. Actualización firmada por Bonemelt Labs.",
-  "pub_date": "2026-11-27T21:54:01Z",
+  "version": "2.0.0-beta.5",
+  "notes": "Interactive Bridge 2.0.0-beta.5. Actualización firmada por Bonemelt Labs.",
+  "pub_date": "2026-11-28T02:00:55Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaTZwRU4wcjllU3RUbHc4YWxSUU0yazkzQ0ZjMThRMEphenR6bzB2QzJieU1xQmJPMGJxUUY5REZaSExzMHhieEUrWjJMY1dSRnZ2TU5adWorRDFweGFrNUZxeU5XL3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODE2NDM4CWZpbGU6SW50ZXJhY3RpdmUgQnJpZGdlXzIuMC4wLWJldGEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4wLjAtYmV0YS40Cit1N0xacEpHMjJ0TE43Q0NUcDZVb21UY3NHQzBaRDVmd0hsY3piK0l5aWw4RVdIUmh2Qk1zRGd5LzNPaGVmVXZ1c2hYcWpmTEZJckI3ZTdIc0Vlb0R3PT0K",
-      "url": "https://github.com/Bonemelt-Studios/interactive-bridge-releases/releases/download/v2.0.0-beta.4/InteractiveBridge_2.0.0-beta.4_x64-setup.exe"
+      "url": "https://github.com/Bonemelt-Studios/interactive-bridge-releases/releases/download/v2.0.0-beta.5/InteractiveBridge_2.0.0-beta.5_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaTZwRU4wcjllU2hGUk43MkR1MXBWWG1pcTZheCtDazJKMzlFcXg5bHRsc1pPY0pvaGhoV3l0WDZBdS9PNzNNMzlvUUg3WTR0TjVpUnBVNnZVREVDSUNJWE81T0pJRVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODMxMjU0CWZpbGU6SW50ZXJhY3RpdmUgQnJpZGdlXzIuMC4wLWJldGEuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246Mi4wLjAtYmV0YS41Cmc5dDJmK3kxdFd6bkNmSGpkbzVIbzZZR1VrRmdTQVJIbGgyOS81NCtpNm9RTmkvdW9MOWVyd3JhbE05WFpFSG5CZ1NlVHFSRndmcGNudlZ6UDhCZkFBPT0K"
     }
   }
 }
